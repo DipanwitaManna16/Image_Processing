@@ -1,2 +1,2 @@
 # Image_Processing
-Image Processing using opencv . 
+Image Processing using opencv(Cropping , Resizing ) . 
